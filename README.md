@@ -69,7 +69,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________
     IV- Reference
 	
-[1] SYLVAIN ILOGA, and K. M. MOTUE DJOKO, "The SASI frameworks: Efficient HMM-based alternatives to 
+[1] ????, and ????, "The SASI frameworks: Efficient HMM-based alternatives to 
     RFM representations for customer segmentation and customer profile analysis in the banking sector",
 	(Under review).
 __________________________________________________________________________________________________
